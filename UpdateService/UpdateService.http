@@ -1,0 +1,6 @@
+@UpdateService_HostAddress = https://localhost:7057
+
+GET {{UpdateService_HostAddress}}/version?applicationName=SampleApplication
+Accept: application/json
+
+###
